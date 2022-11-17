@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+}
+body {
+    background-color: white;
+}
+ li {
+    list-style: none;
+    text-align: center;
+    font-size: 400;
+
+}
+.Textos {
+    margin-top: 3%;
+}
+.Title1 {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+}
+.Title2 {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+background: linear-gradient(90deg, #EC0000 50%, #7A00BC 71.54%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+.SantanderLogo {
+    width:49.76px ; 
+    height: 41.03px ;
+   
+}
+section > .LogoCentro {
+ 
+    width: 277px;
+    height: 277px;
+    border-radius: 200px;
+    text-align: center;
+    
+    background: conic-gradient(from 180deg at 50% 50%, #7A00BC -44.1deg, #E5000D 36.25deg, #7A00BC 315.9deg, #E5000D 396.25deg);
+}
+section > .LogoCentro > img {
+    margin-top: 40%;
+    width: 300px;
+    Height: 170px;
+}
+section {
+    margin-top: 8%;
+       display: flex;
+       justify-content: center;
+}
+.BtnBonito{
+    display: flex;
+    justify-content: center;
+}
+.BtnBonito > a >  button {
+ 
+    margin-top: 4%;
+    height: 46px;
+    width: 330px;
+    border: none;
+    background: linear-gradient(90deg, #EC0000 0%, #7A00BC 94.75%);
+    border-radius: 8px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    color: rgba(255, 255, 255, 1);
+}
+button:hover {
+    cursor: pointer;
+
+}
+.NoAccount {
+    text-align: center;
+
+}
+.NoAccount > a {
+   
+    width: 119px;
+    height: 26px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #888888;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+header {
+height: 222px;
+left: 0px;
+top: 0px;
+background: linear-gradient(180deg, #EC0000 0%, #7A00BC 100%), linear-gradient(180deg, #EC0000 0%, #7A00BC 100%);
+}
+.MenuTeen > img {
+    margin-top: 1%;
+    margin-left: 1%;
+}
+h3 {
+width: 154px;
+height: 26px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+margin-left: 4%;
+margin-top: 2%;
+}
+.IconNotificaçãoTeen {
+    margin-left: 92%;
+    width:16.5px;
+    height:  13.75px;
+}
